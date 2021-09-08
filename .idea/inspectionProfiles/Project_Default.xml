@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="home.models.Slider.objects" />
+          <option value="home.models.Category.objects" />
+          <option value="home.models.Review.objects" />
+          <option value="home.models.Item.*" />
+          <option value="home.models.Contact.*" />
+          <option value="home.models.Brand.*" />
+          <option value="home.models.Ad.*" />
+          <option value="home.models.SiteReview.*" />
+          <option value="home.models.Cart.*" />
+          <option value="myapp.models.Slider.*" />
+          <option value="myapp.models.Item.*" />
+          <option value="myapp.models.Brand.*" />
+          <option value="myapp.models.Category.*" />
+          <option value="myapp.models.Ad.*" />
+          <option value="myapp.models.SiteReview.*" />
+          <option value="myapp.models.Review.*" />
+          <option value="myapp.models.Contact.*" />
+          <option value="myapp.models.Cart.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
